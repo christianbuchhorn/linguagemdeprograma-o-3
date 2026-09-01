@@ -1,4 +1,4 @@
-package com.ecommerce.ecommerce.entity;
+package com.tads.ecommerce.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
